@@ -2,8 +2,9 @@
   "baslik": "Pano",
   "duyuru": "Hayırlı Cumalar!",
   "ogeler": [
-    "FENERBAHÇE",
-    
+    "metin": doğruların bir gün ortaya çıkmak gibi güzel bir huyu vardır.",
+    "kaynak":"Rahle",
+    "renk": "sarı lacivert",
     {
       "metin": "Gazze'yi konuşacak tek sen kalmışsın gibi konuşmaya devam et!",
       "kaynak": "Rahle",
