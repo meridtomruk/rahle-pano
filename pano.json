@@ -1,1 +1,21 @@
-
+{
+  "baslik": "Pano",
+  "duyuru": "Hayırlı Cumalar!",
+  "ogeler": [
+    {
+      "metin": "Sinan Bülbül'e dualarınızda yer veriniz lütfen",
+      "kaynak": "Rahle",
+      "renk": "lacivert"
+    },
+    {
+      "metin": "Gazze'yi konuşacak tek sen yapabildin gibi konuşmaya devam et!",
+      "kaynak": "Rahle",
+      "renk": "siyah"
+    },
+    {
+      "metin": "Dünya bir gölgedir; kovalarsan kaçar, arkanı dönersen peşinden gelir.",
+      "kaynak": "— Mevlânâ",
+      "renk": "krem"
+    }
+  ]
+}
